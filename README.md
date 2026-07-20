@@ -2,7 +2,7 @@
 
 Official APT repository for Zenvara command-line tools, signed with the
 `Zenvara Package Signing <packages@zenvara.ai>` GPG key
-(fingerprint `96C9DB05801D119732D106C4EDD6618D401E1397`).
+(fingerprint `8AB9A1A98BAF97FDCFBCCB66714C0C3ED9A43DC3`).
 
 ## Install
 
