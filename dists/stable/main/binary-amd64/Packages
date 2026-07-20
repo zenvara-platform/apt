@@ -1,0 +1,16 @@
+Package: zen
+Priority: optional
+Section: 
+Installed-Size: 9097
+Maintainer: Zenvara <packages@zenvara.ai>
+Architecture: amd64
+Version: 1.0.0
+Filename: pool/main/z/zen/zen_1.0.0_amd64.deb
+Size: 4491806
+MD5sum: 73a8be8b15aaf9c3e2c33befb0d1a10f
+SHA1: 165317880c06f7403a4960d23975ed24ac853c80
+SHA256: 6875f8fdf7f2d530122db61038ff753c2d664e3417eac90cd2d93d6fa276d399
+SHA512: f8eb3445f82bcd5432b591677e9b6952975c7d7eb180509208d300ed478a2d192e527ef6b73a7382216fda51bb57d372c1f14b2ee404ef0a12b1f67d784116b9
+Description: Lightweight cross-platform CLI for Zenvara — one native binary to install, run, and operate Zenvara.
+Homepage: https://github.com/zenvara-platform/cli
+
